@@ -7,7 +7,7 @@
 拉取镜像
 
 ```
-docker push weiliy/gmssl
+docker pull weiliy/gmssl
 ```
 
 添加下列命令别名到`~/.bashrc`或`~/.zshrc`
